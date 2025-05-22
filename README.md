@@ -408,7 +408,8 @@ CSS
 
 ## OUTPUT:
 
-![alt text](<Screenshot (112).png>)
+![image](https://github.com/user-attachments/assets/1756f53a-7e02-4ec7-9e19-a6c3a99b3998)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
